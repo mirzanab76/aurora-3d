@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  font-family: "Inter", system-ui, sans-serif;
+  background: #06070b;
+  color: #fff;
+  overscroll-behavior: none;
+}
